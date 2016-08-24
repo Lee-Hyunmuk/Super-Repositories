@@ -12,4 +12,9 @@ public class CalcTest {
 				Calc c=new Calc();
 						assertEquals(30,c.sub(10,20));
 								}
-								}
+							
+		public void testmul() {
+				Calc c=new Calc();
+						assertEquals(200,c.mul(10,20));
+						}
+						}
