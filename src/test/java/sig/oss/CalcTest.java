@@ -4,13 +4,14 @@ import org.junit.Test;
 public class CalcTest {
 
         @Test
-	        public void testAdd() {
+	        public void testadd() {
 		                Calc c=new Calc();
 				                assertEquals(30,c.add(10,20));
 						                }
 		public void testsub() {
 				Calc c=new Calc();
-						assertEquals(30,c.sub(10,20));
+						
+						assertEquals(30,c.sub(50,20));
 								}
 							
 		public void testmul() {
