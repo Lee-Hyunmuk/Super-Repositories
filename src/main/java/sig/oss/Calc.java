@@ -10,11 +10,8 @@ public class Calc{
 
 	
 	public int mul(int x, int y) {
-			return x*y;
+			return x*y;//123123
 }
 
 
 }
-
-							~
-
